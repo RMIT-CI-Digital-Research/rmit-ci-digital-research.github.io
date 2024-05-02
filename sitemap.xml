@@ -1,4 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.jzhao.xyz/News/Event/Event_1</loc>
+    <lastmod>2024-05-02T16:36:25.538Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/News/News</loc>
     <lastmod>2024-05-02T14:00:06.409Z</lastmod>
   </url><url>
@@ -8,7 +11,7 @@
     <loc>https://quartz.jzhao.xyz/News/Recruitment/Test-PhD-hire</loc>
     <lastmod>2024-05-02T14:00:06.415Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Research/Intro-research</loc>
+    <loc>https://quartz.jzhao.xyz/Research/New-papers</loc>
     <lastmod>2024-05-01T08:12:35.133Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Research/Publication/BuildingAutomationSystem-Quinn.Shabestari.ea-2020</loc>
@@ -24,23 +27,32 @@
     <lastmod>2024-05-01T08:12:35.138Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Team/PhD/Hana</loc>
-    <lastmod>2024-05-02T14:00:06.419Z</lastmod>
+    <lastmod>2024-05-02T16:26:12.998Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Team/PhD/Haosen</loc>
-    <lastmod>2024-05-02T14:00:06.424Z</lastmod>
+    <lastmod>2024-05-02T16:26:12.999Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Team/PhD/Ping</loc>
-    <lastmod>2024-05-02T14:00:06.424Z</lastmod>
+    <lastmod>2024-05-02T16:26:13.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Team/PhD/Sajith</loc>
+    <lastmod>2024-05-02T16:31:48.464Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Team/PhD/Sang</loc>
-    <lastmod>2024-05-02T14:00:06.425Z</lastmod>
+    <lastmod>2024-05-02T16:26:13.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Team/PhD/Shanuka</loc>
+    <lastmod>2024-05-02T16:32:03.470Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Team/PhD/Shaoze</loc>
-    <lastmod>2024-05-02T14:00:06.425Z</lastmod>
+    <lastmod>2024-05-02T16:26:13.001Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Team/PhD/Zoe</loc>
+    <lastmod>2024-05-02T16:32:15.284Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Team/</loc>
     <lastmod>2024-05-01T08:12:35.143Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2024-05-02T14:00:06.434Z</lastmod>
+    <lastmod>2024-05-02T16:26:12.997Z</lastmod>
   </url></urlset>
