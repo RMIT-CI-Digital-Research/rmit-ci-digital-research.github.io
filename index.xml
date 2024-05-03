@@ -6,6 +6,18 @@
       <description>Last 10 notes on Digital Zoo Keepers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Publications</title>
+    <link>https://quartz.jzhao.xyz/Research/Publication/</link>
+    <guid>https://quartz.jzhao.xyz/Research/Publication/</guid>
+    <description>Check out our publications !.</description>
+    <pubDate>Fri, 03 May 2024 03:03:49 GMT</pubDate>
+  </item><item>
+    <title>Test</title>
+    <link>https://quartz.jzhao.xyz/Research/Topics/Test</link>
+    <guid>https://quartz.jzhao.xyz/Research/Topics/Test</guid>
+    <description> AR asdasdasd AR2 AR3 asdasdasd asdasdasd .</description>
+    <pubDate>Fri, 03 May 2024 01:11:09 GMT</pubDate>
+  </item><item>
     <title>Conference</title>
     <link>https://quartz.jzhao.xyz/News/Event/Event_1</link>
     <guid>https://quartz.jzhao.xyz/News/Event/Event_1</guid>
@@ -52,18 +64,6 @@
     <link>https://quartz.jzhao.xyz/Team/PhD/Haosen</link>
     <guid>https://quartz.jzhao.xyz/Team/PhD/Haosen</guid>
     <description>🦘.</description>
-    <pubDate>Thu, 02 May 2024 16:26:12 GMT</pubDate>
-  </item><item>
-    <title>Hana</title>
-    <link>https://quartz.jzhao.xyz/Team/PhD/Hana</link>
-    <guid>https://quartz.jzhao.xyz/Team/PhD/Hana</guid>
-    <description>🦘.</description>
-    <pubDate>Thu, 02 May 2024 16:26:12 GMT</pubDate>
-  </item><item>
-    <title>Hello from RMIT!</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>...</description>
     <pubDate>Thu, 02 May 2024 16:26:12 GMT</pubDate>
   </item>
     </channel>
