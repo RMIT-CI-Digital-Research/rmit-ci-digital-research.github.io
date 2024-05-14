@@ -6,6 +6,30 @@
       <description>Last 10 notes on Digital Zoo Keepers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Life Cycle Assessment</title>
+    <link>https://quartz.jzhao.xyz/Research/Topics/LCA</link>
+    <guid>https://quartz.jzhao.xyz/Research/Topics/LCA</guid>
+    <description>Life Cycle Assessment (LCA) is a systematic method used to evaluate the environmental impacts associated with all stages of a product’s life cycle, from raw material extraction ...</description>
+    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
+  </item><item>
+    <title>Building Information Modelling</title>
+    <link>https://quartz.jzhao.xyz/Research/Topics/BIM</link>
+    <guid>https://quartz.jzhao.xyz/Research/Topics/BIM</guid>
+    <description>Building Information Modelling (BIM) is a digital representation of the physical and functional characteristics of a facility. It is a collaborative process that allows architects, engineers, and construction professionals to design, construct, and manage buildings and infrastructure projects more efficiently.</description>
+    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
+  </item><item>
+    <title>Artificial Intelligence</title>
+    <link>https://quartz.jzhao.xyz/Research/Topics/AI</link>
+    <guid>https://quartz.jzhao.xyz/Research/Topics/AI</guid>
+    <description>Artificial Intelligence (AI) refers to the field of computer science dedicated to developing systems or machines that can perform tasks that typically require human intelligence ...</description>
+    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
+  </item><item>
+    <title>NCP 2024</title>
+    <link>https://quartz.jzhao.xyz/News/NCP/Visa</link>
+    <guid>https://quartz.jzhao.xyz/News/NCP/Visa</guid>
+    <description>Website: bio.visaforchina.cn/MEL3_EN/ Visa Category (F)Exchange, visits, study tours or other relevant activities Fee bio.visaforchina.cn/MEL3_EN/upload/20240229/ddaf471401ac47b688116bc64619eb12.pdf ...</description>
+    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
+  </item><item>
     <title>Publications</title>
     <link>https://quartz.jzhao.xyz/Research/Publication/</link>
     <guid>https://quartz.jzhao.xyz/Research/Publication/</guid>
@@ -17,12 +41,6 @@
     <guid>https://quartz.jzhao.xyz/Research/Demonstration/VR-experiment</guid>
     <description></description>
     <pubDate>Mon, 06 May 2024 07:20:14 GMT</pubDate>
-  </item><item>
-    <title>Test</title>
-    <link>https://quartz.jzhao.xyz/Research/Topics/Test</link>
-    <guid>https://quartz.jzhao.xyz/Research/Topics/Test</guid>
-    <description> AR asdasdasd AR2 AR3 asdasdasd asdasdasd .</description>
-    <pubDate>Mon, 06 May 2024 07:19:54 GMT</pubDate>
   </item><item>
     <title>Latest Publications</title>
     <link>https://quartz.jzhao.xyz/Research/Latest-Publications</link>
@@ -47,24 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Team/PhD/Sajith</guid>
     <description></description>
     <pubDate>Fri, 03 May 2024 01:53:43 GMT</pubDate>
-  </item><item>
-    <title>Building Information Modelling</title>
-    <link>https://quartz.jzhao.xyz/Research/Topics/Building-Information-Modelling</link>
-    <guid>https://quartz.jzhao.xyz/Research/Topics/Building-Information-Modelling</guid>
-    <description>Related Researcher: Sang Building Information Modeling (BIM) is a digital representation of the physical and functional characteristics of a facility.</description>
-    <pubDate>Fri, 03 May 2024 01:53:43 GMT</pubDate>
-  </item><item>
-    <title>Conference</title>
-    <link>https://quartz.jzhao.xyz/News/Event/Event_1</link>
-    <guid>https://quartz.jzhao.xyz/News/Event/Event_1</guid>
-    <description>Test.</description>
-    <pubDate>Fri, 03 May 2024 01:53:43 GMT</pubDate>
-  </item><item>
-    <title>Hana</title>
-    <link>https://quartz.jzhao.xyz/Team/PhD/Hana</link>
-    <guid>https://quartz.jzhao.xyz/Team/PhD/Hana</guid>
-    <description>🦘.</description>
-    <pubDate>Thu, 02 May 2024 00:55:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
