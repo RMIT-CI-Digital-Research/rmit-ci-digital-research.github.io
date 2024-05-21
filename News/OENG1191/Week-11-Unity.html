@@ -51,7 +51,8 @@ Start function is called only once before the first frame update. In this script
                 </div>
 <p>Update is called once per frame.<br/>
 <a href="../../News/OENG1191/if" class="internal alias" data-slug="News/OENG1191/if">What is the if structure?</a><br/>
-<code>if (Input.GetKeyDown(KeyCode.E) &amp;&amp; inTheArea)</code> is a logical expression which means if ‘E’ is keyed and bool variable <code>inTheArea</code> is Ture, then execute the code in the following ’{}‘.</p>
+<code>if (Input.GetKeyDown(KeyCode.E) &amp;&amp; inTheArea)</code> is a logical expression which means if ‘E’ is keyed and bool variable <code>inTheArea</code> is Ture, then execute the code in the following ’{}‘.
+<a href="../../News/OENG1191/logical" class="internal alias" data-slug="News/OENG1191/logical">What is logical expression?</a></p>
 </blockquote>
 <pre><code>    // Update is called once per frame
     void Update()
@@ -99,11 +100,9 @@ In this case, the function will be called when the avatar is near the door.</p>
 <blockquote class="callout note" data-callout="note">
 <div class="callout-title">
                   <div class="callout-icon"></div>
-                  <div class="callout-title-inner"><p>Trigger function for entry </p></div>
+                  <div class="callout-title-inner"><p>Trigger function for exit </p></div>
                   
                 </div>
-<p>The method <code>OnTriggerEnter</code> is a special Unity method that gets called automatically when another object enters a trigger collider attached to the object this script is attached to.<br/>
-In this case, the function will be called when the avatar is near the door.</p>
 </blockquote>
 <figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="C#" data-theme="github-light github-dark"><code data-language="C#" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>  private void OnTriggerExit(Collider other)</span></span>
 <span data-line><span>    {</span></span>
