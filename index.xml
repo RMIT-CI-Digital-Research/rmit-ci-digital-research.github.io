@@ -6,6 +6,30 @@
       <description>Last 10 notes on Digital Zoo Keepers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Logical expressions</title>
+    <link>https://quartz.jzhao.xyz/News/OENG1191/logical</link>
+    <guid>https://quartz.jzhao.xyz/News/OENG1191/logical</guid>
+    <description></description>
+    <pubDate>Tue, 21 May 2024 04:07:32 GMT</pubDate>
+  </item><item>
+    <title>If - else structure</title>
+    <link>https://quartz.jzhao.xyz/News/OENG1191/if</link>
+    <guid>https://quartz.jzhao.xyz/News/OENG1191/if</guid>
+    <description></description>
+    <pubDate>Tue, 21 May 2024 04:04:15 GMT</pubDate>
+  </item><item>
+    <title>Different functions in MonoBehaviour​</title>
+    <link>https://quartz.jzhao.xyz/News/OENG1191/functions</link>
+    <guid>https://quartz.jzhao.xyz/News/OENG1191/functions</guid>
+    <description>...</description>
+    <pubDate>Tue, 21 May 2024 03:56:34 GMT</pubDate>
+  </item><item>
+    <title>Class types</title>
+    <link>https://quartz.jzhao.xyz/News/OENG1191/Classtypes</link>
+    <guid>https://quartz.jzhao.xyz/News/OENG1191/Classtypes</guid>
+    <description>public class test : MonoBehaviour The class is accessible from any other class or assembly. private class test : MonoBehaviour​ The class is accessible only within its containing class.</description>
+    <pubDate>Tue, 21 May 2024 03:51:39 GMT</pubDate>
+  </item><item>
     <title>Inheritance</title>
     <link>https://quartz.jzhao.xyz/News/OENG1191/inheritance</link>
     <guid>https://quartz.jzhao.xyz/News/OENG1191/inheritance</guid>
@@ -41,30 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Research/Topics/BIM</guid>
     <description>Building Information Modelling (BIM) is a digital representation of the physical and functional characteristics of a facility. It is a collaborative process that allows architects, engineers, and construction professionals to design, construct, and manage buildings and infrastructure projects more efficiently.</description>
     <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
-  </item><item>
-    <title>Artificial Intelligence</title>
-    <link>https://quartz.jzhao.xyz/Research/Topics/AI</link>
-    <guid>https://quartz.jzhao.xyz/Research/Topics/AI</guid>
-    <description>Artificial Intelligence (AI) refers to the field of computer science dedicated to developing systems or machines that can perform tasks that typically require human intelligence ...</description>
-    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
-  </item><item>
-    <title>NCP 2024</title>
-    <link>https://quartz.jzhao.xyz/News/NCP/Visa</link>
-    <guid>https://quartz.jzhao.xyz/News/NCP/Visa</guid>
-    <description>Website: bio.visaforchina.cn/MEL3_EN/ Visa Category (F)Exchange, visits, study tours or other relevant activities Fee bio.visaforchina.cn/MEL3_EN/upload/20240229/ddaf471401ac47b688116bc64619eb12.pdf ...</description>
-    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
-  </item><item>
-    <title>Publications</title>
-    <link>https://quartz.jzhao.xyz/Research/Publication/</link>
-    <guid>https://quartz.jzhao.xyz/Research/Publication/</guid>
-    <description>Check out our publications !.</description>
-    <pubDate>Mon, 06 May 2024 07:20:14 GMT</pubDate>
-  </item><item>
-    <title>Virtual Reality Experiment</title>
-    <link>https://quartz.jzhao.xyz/Research/Demonstration/VR-experiment</link>
-    <guid>https://quartz.jzhao.xyz/Research/Demonstration/VR-experiment</guid>
-    <description></description>
-    <pubDate>Mon, 06 May 2024 07:20:14 GMT</pubDate>
   </item>
     </channel>
   </rss>
