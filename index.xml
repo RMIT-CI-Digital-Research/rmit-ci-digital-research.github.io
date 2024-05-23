@@ -6,6 +6,12 @@
       <description>Last 10 notes on Digital Zoo Keepers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Augmented Reality For Aircraft Maintenance</title>
+    <link>https://quartz.jzhao.xyz/Research/Demonstration/AR1</link>
+    <guid>https://quartz.jzhao.xyz/Research/Demonstration/AR1</guid>
+    <description></description>
+    <pubDate>Thu, 23 May 2024 07:09:51 GMT</pubDate>
+  </item><item>
     <title>VR Excavator Operator Training System</title>
     <link>https://quartz.jzhao.xyz/Research/Demonstration/VR1</link>
     <guid>https://quartz.jzhao.xyz/Research/Demonstration/VR1</guid>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/News/OENG1191/Installation</guid>
     <description>Step 1: Install Unity Hub Go to unity.com/download, find Download for Windows This will initial downloading of Unity Hub. Step 2: Install Unity Editor Inside Unity Hub, go to installs find and download the latest Long Term Support (LTS) version: LTS Release2022.3.29f1 Warning Microsoft Visual Studio as a component is required for this session.</description>
     <pubDate>Tue, 21 May 2024 02:34:25 GMT</pubDate>
-  </item><item>
-    <title>Life Cycle Assessment</title>
-    <link>https://quartz.jzhao.xyz/Research/Topics/LCA</link>
-    <guid>https://quartz.jzhao.xyz/Research/Topics/LCA</guid>
-    <description>Life Cycle Assessment (LCA) is a systematic method used to evaluate the environmental impacts associated with all stages of a product’s life cycle, from raw material extraction ...</description>
-    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
   </item>
     </channel>
   </rss>
