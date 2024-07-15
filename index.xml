@@ -6,6 +6,12 @@
       <description>Last 10 notes on Digital Zoo Keepers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Digital and Sustainable Building Lab</title>
+    <link>https://quartz.jzhao.xyz/Research/Facility/Lab</link>
+    <guid>https://quartz.jzhao.xyz/Research/Facility/Lab</guid>
+    <description>Welcome to the Digital and Sustainable Building Lab, a state-of-the-art facility equipped with cutting-edge technology aimed at pushing the boundaries of construction, automation, ...</description>
+    <pubDate>Mon, 15 Jul 2024 01:40:45 GMT</pubDate>
+  </item><item>
     <title>Augmented Reality For Aircraft Maintenance</title>
     <link>https://quartz.jzhao.xyz/Research/Demonstration/AR1</link>
     <guid>https://quartz.jzhao.xyz/Research/Demonstration/AR1</guid>
@@ -18,53 +24,47 @@
     <description></description>
     <pubDate>Thu, 23 May 2024 05:38:37 GMT</pubDate>
   </item><item>
-    <title>Logical expressions</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/logical</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/logical</guid>
+    <title>Life Cycle Assessment</title>
+    <link>https://quartz.jzhao.xyz/Research/Topics/LCA</link>
+    <guid>https://quartz.jzhao.xyz/Research/Topics/LCA</guid>
+    <description>Life Cycle Assessment (LCA) is a systematic method used to evaluate the environmental impacts associated with all stages of a product’s life cycle, from raw material extraction ...</description>
+    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
+  </item><item>
+    <title>Building Information Modelling</title>
+    <link>https://quartz.jzhao.xyz/Research/Topics/BIM</link>
+    <guid>https://quartz.jzhao.xyz/Research/Topics/BIM</guid>
+    <description>Building Information Modelling (BIM) is a digital representation of the physical and functional characteristics of a facility. It is a collaborative process that allows architects, engineers, and construction professionals to design, construct, and manage buildings and infrastructure projects more efficiently.</description>
+    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
+  </item><item>
+    <title>Artificial Intelligence</title>
+    <link>https://quartz.jzhao.xyz/Research/Topics/AI</link>
+    <guid>https://quartz.jzhao.xyz/Research/Topics/AI</guid>
+    <description>Artificial Intelligence (AI) refers to the field of computer science dedicated to developing systems or machines that can perform tasks that typically require human intelligence ...</description>
+    <pubDate>Mon, 13 May 2024 06:17:58 GMT</pubDate>
+  </item><item>
+    <title>Publications</title>
+    <link>https://quartz.jzhao.xyz/Research/Publication/</link>
+    <guid>https://quartz.jzhao.xyz/Research/Publication/</guid>
+    <description>Check out our publications !.</description>
+    <pubDate>Mon, 06 May 2024 07:20:14 GMT</pubDate>
+  </item><item>
+    <title>Zoe Zou</title>
+    <link>https://quartz.jzhao.xyz/Team/PhD/Zoe</link>
+    <guid>https://quartz.jzhao.xyz/Team/PhD/Zoe</guid>
     <description></description>
-    <pubDate>Tue, 21 May 2024 04:07:32 GMT</pubDate>
+    <pubDate>Fri, 03 May 2024 01:53:43 GMT</pubDate>
   </item><item>
-    <title>If - else structure</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/if</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/if</guid>
+    <title>Shanuka Dodampegama</title>
+    <link>https://quartz.jzhao.xyz/Team/PhD/Shanuka</link>
+    <guid>https://quartz.jzhao.xyz/Team/PhD/Shanuka</guid>
     <description></description>
-    <pubDate>Tue, 21 May 2024 04:04:15 GMT</pubDate>
+    <pubDate>Fri, 03 May 2024 01:53:43 GMT</pubDate>
   </item><item>
-    <title>Different functions in MonoBehaviour​</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/functions</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/functions</guid>
-    <description>...</description>
-    <pubDate>Tue, 21 May 2024 03:56:34 GMT</pubDate>
-  </item><item>
-    <title>Class types</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/Classtypes</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/Classtypes</guid>
-    <description>public class test : MonoBehaviour The class is accessible from any other class or assembly. private class test : MonoBehaviour​ The class is accessible only within its containing class.</description>
-    <pubDate>Tue, 21 May 2024 03:51:39 GMT</pubDate>
-  </item><item>
-    <title>Inheritance</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/inheritance</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/inheritance</guid>
-    <description> graph TD MonoBehaviour --&gt; test .</description>
-    <pubDate>Tue, 21 May 2024 03:25:57 GMT</pubDate>
-  </item><item>
-    <title>Namespaces</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/namespaces</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/namespaces</guid>
-    <description> .</description>
-    <pubDate>Tue, 21 May 2024 03:20:15 GMT</pubDate>
-  </item><item>
-    <title>Week 11 Unity</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/Week-11-Unity</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/Week-11-Unity</guid>
-    <description>Code section explained: Namespace Declarations No not change this part This part is to include functions from other libraries. using System.Collections; using System.Collections.Generic; using UnityEngine; Transclude of namespaces Main script Start with defining variables.</description>
-    <pubDate>Tue, 21 May 2024 02:34:25 GMT</pubDate>
-  </item><item>
-    <title>Week 11 Unity Installation</title>
-    <link>https://quartz.jzhao.xyz/News/OENG1191/Installation</link>
-    <guid>https://quartz.jzhao.xyz/News/OENG1191/Installation</guid>
-    <description>Step 1: Install Unity Hub Go to unity.com/download, find Download for Windows This will initial downloading of Unity Hub. Step 2: Install Unity Editor Inside Unity Hub, go to installs find and download the latest Long Term Support (LTS) version: LTS Release2022.3.29f1 Warning Microsoft Visual Studio as a component is required for this session.</description>
-    <pubDate>Tue, 21 May 2024 02:34:25 GMT</pubDate>
+    <title>Sajith Wettewa</title>
+    <link>https://quartz.jzhao.xyz/Team/PhD/Sajith</link>
+    <guid>https://quartz.jzhao.xyz/Team/PhD/Sajith</guid>
+    <description></description>
+    <pubDate>Fri, 03 May 2024 01:53:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
